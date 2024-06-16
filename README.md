@@ -2,7 +2,10 @@
 
 This project demonstrates the fine-tuning of the Gemma model to handle function calling tasks using advanced techniques like Low-Rank Adaptation (LoRA) and Sequence-to-Sequence Fine-Tuning (SFT). The fine-tuned model can generate appropriate responses and function calls based on user inputs.
 
+## Public Colab Notebook Link: [Colab Notebook](https://colab.research.google.com/drive/1voUvws-8tsDU_tQehMSZJqRNUtdPhXpJ?usp=sharing)
+
 ### Model link(on the hugging face Models repository) : [Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)

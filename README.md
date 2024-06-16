@@ -4,7 +4,7 @@ This project demonstrates the fine-tuning of the Gemma model to handle function 
 
 ## Public Colab Notebook Link: [Colab Notebook](https://colab.research.google.com/drive/1voUvws-8tsDU_tQehMSZJqRNUtdPhXpJ?usp=sharing)
 
-### Model link(on the hugging face Models repository) : [Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
+### Model link(From my HugginFace Models) : [Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
 
 ## Table of Contents
 

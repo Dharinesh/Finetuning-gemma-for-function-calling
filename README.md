@@ -56,6 +56,7 @@ The reason i have used the Gemma model with 2b parameters is mainly due to compu
 
 If you want to use the Final Fine tuned Model, you can use Hugging Face Pipelines and the model repository link on hugging face is : 
 [Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
+
 Once the model is fine-tuned, it can be used to generate function calls based on user inputs. The fine-tuned model improves the assistant's ability to understand user queries and respond with appropriate function calls, enhancing its utility in applications requiring precise and contextual function execution.
 
 ## Contributing

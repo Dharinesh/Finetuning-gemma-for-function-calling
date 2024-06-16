@@ -2,6 +2,7 @@
 
 This project demonstrates the fine-tuning of the Gemma model to handle function calling tasks using advanced techniques like Low-Rank Adaptation (LoRA) and Sequence-to-Sequence Fine-Tuning (SFT). The fine-tuned model can generate appropriate responses and function calls based on user inputs.
 
+### Model link(on the hugging face Models repository) : [Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -51,18 +52,15 @@ The training process involves several key steps:
 5. **Model Saving**: The fine-tuned model is saved for future use.
 
 ## Example Usage
+The reason i have used the Gemma model with 2b parameters is mainly due to compuational resourse availability.
 
+If you want to use the Final Fine tuned Model, you can use Hugging Face Pipelines and the model repository link on hugging face is : 
+[Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
 Once the model is fine-tuned, it can be used to generate function calls based on user inputs. The fine-tuned model improves the assistant's ability to understand user queries and respond with appropriate function calls, enhancing its utility in applications requiring precise and contextual function execution.
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-branch`.
-5. Submit a pull request.
+Contributions are welcome!
 
 ## License
 

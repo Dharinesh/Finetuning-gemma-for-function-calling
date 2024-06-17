@@ -55,7 +55,7 @@ The training process involves several key steps:
 5. **Model Saving**: The fine-tuned model is saved for future use.
 
 ## Example Usage
-The reason i have used the Gemma model with 2b parameters is mainly due to compuational resourse availability.
+The reason i have used the Gemma model with 2b parameters is mainly due to compuational resource availability.
 
 If you want to use the Final Fine tuned Model, you can use Hugging Face Pipelines and the model repository link on hugging face is : 
 [Model](https://huggingface.co/Dharinesh/finetuned-gemma-function-calling)
